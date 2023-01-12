@@ -1,7 +1,7 @@
 {
   "name": "react-to-do-list",
-  "homepage": "https://kellydrake.github.io/react-to-do-list",
-  "private": false,
+  "homepage": "https://github.com/kellydrake/to-do-list.git",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
